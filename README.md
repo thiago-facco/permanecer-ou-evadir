@@ -1,1 +1,0 @@
-# permanecer-ou-evadir
