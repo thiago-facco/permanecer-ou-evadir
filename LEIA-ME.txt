@@ -1,0 +1,35 @@
+PERMANECER OU EVADIR? - arquivos do site
+
+O QUE HÁ NESTA PASTA
+- index.html ...... a página do Produto Educacional (é ela que abre o site)
+- painel.html ..... o Painel Analítico, exibido dentro da Seção 7
+- img/ ............ as imagens usadas nas seções
+
+COMO TESTAR NO COMPUTADOR
+1. Mantenha os arquivos juntos, nesta mesma pasta.
+2. Dê dois cliques em index.html. O site abre no navegador.
+3. É preciso estar conectado à internet: a fonte Open Sans e as bibliotecas
+   de gráficos e mapas do painel são carregadas da internet.
+
+COMO PUBLICAR NO GITHUB (GitHub Pages)
+1. Entre em github.com com a sua conta e clique em "New" (novo repositório).
+2. Dê um nome ao repositório (por exemplo: permanecer-ou-evadir), marque
+   "Public" e clique em "Create repository".
+3. Na página do repositório, clique em "uploading an existing file"
+   (ou em "Add file" > "Upload files").
+4. Abra esta pasta no computador, selecione TUDO o que está dentro dela
+   (index.html, painel.html, LEIA-ME.txt e a pasta img) e arraste para a
+   área de envio. Atenção: arraste o conteúdo da pasta, e não a pasta em si.
+   O index.html precisa ficar na primeira página do repositório.
+5. Clique em "Commit changes" e espere o envio terminar.
+6. Vá em "Settings" > "Pages". Em "Branch", escolha "main" e "/ (root)"
+   e clique em "Save".
+7. Aguarde um ou dois minutos e atualize a página. O endereço do site
+   aparece no alto, no formato: https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+
+COMO ATUALIZAR DEPOIS
+Repita o passo 3 com os arquivos novos. Arquivos com o mesmo nome são
+substituídos. O site se atualiza sozinho em um ou dois minutos.
+
+Para atualizar só o painel, substitua o arquivo painel.html por uma versão
+nova com o mesmo nome.
